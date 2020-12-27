@@ -1,0 +1,69 @@
+[
+  {
+    "Name": "Bole",
+    "Element": "Earth",
+    "AstralDeity": "Nophica, The Matron",
+    "UmbralDeity": "Althyk, The Keeper",
+    "Theme": "protection, defense, life, nurturing",
+    "DivineMeaning": "Investment paying off, blessings, good fortune in earthly matters, slow change",
+    "ReversedMeaning": "Overly defensive, need to look at broader picture and reassess long term strategy",
+    "AstralPerson": "A lucky person who brings good tidings",
+    "UmbralPerson": "A stressed and anxious person who needs guidance"
+  },
+  {
+    "Name": "Balance",
+    "Element": "Fire",
+    "AstralDeity": "Azeyma, The Warden",
+    "UmbralDeity": "Nald'Thal, The Traders",
+    "Theme": "prosperity, blessings, divine judgement, vigor",
+    "DivineMeaning": "Be flexible, accept the good with the bad, maintain reasonable expectations",
+    "ReversedMeaning": "Be cautious, approaching danger, drastic change ahead",
+    "AstralPerson": "An organized person who brings a challenge",
+    "UmbralPerson": "A strong, spiritual figure or merchant who brings drastic change"
+  },
+  {
+    "Name": "Spire",
+    "Element": "Lightning",
+    "AstralDeity": "Byregot, The Builder",
+    "UmbralDeity": "Rhalgr, The Destroyer",
+    "Theme": "creation and destruction",
+    "DivineMeaning": "Completion of tasks, accomplishment of goals, humility",
+    "ReversedMeaning": "Coming disaster, stay strong, embrace difficult changes",
+    "AstralPerson": "A stubborn, intimidating person with good intentions",
+    "UmbralPerson": "A person bringing drastic change that's not prepared for"
+  },
+  {
+    "Name": "Arrow",
+    "Element": "Wind",
+    "AstralDeity": "Oschon, the Wanderer",
+    "UmbralDeity": "Llymlaen, the Navigator",
+    "Theme": "free spirit, travel, guidance",
+    "DivineMeaning": "physical or spiritual journey, willpower, satisfaction",
+    "ReversedMeaning": "lack of control, need for focus",
+    "AstralPerson": "A coming traveller promising adventure",
+    "UmbralPerson": "A jealous, manipulative person with vile intent; a person who is lost and in need of guidance"
+  },
+  {
+    "Name": "Ewer",
+    "Element": "Water",
+    "AstralDeity": "Nymeia, the Spinner",
+    "UmbralDeity": "Thaliak, the Scholar",
+    "Theme": "knowledge, reflection, replenishment",
+    "DivineMeaning": "wisdom, understanding, peace, serenity, knowledge, reflection, enlightenment",
+    "ReversedMeaning": "disharmony, lack of communication,difficulty focusing,focus on the self",
+    "AstralPerson": "A soothing person who will provide stability",
+    "UmbralPerson": "A contentious person who is difficult to work with"
+
+  },
+  {
+    "Name": "Spear",
+    "Element": "Ice",
+    "AstralDeity": "Halone, The Fury",
+    "UmbralDeity": "Menphina, The Lover",
+    "Theme": "strength, power, compassion, mercy",
+    "DivineMeaning": "strength, confidence, trust, love, synergy, long-term relationships, moral decisions, analysis",
+    "ReversedMeaning": "deep interpersonal rifts, weakness, obstinance, need to conquer emotions, relationship difficulty",
+    "AstralPerson": "A person with compatible energy who energizes you, possibly a romantic interest",
+    "UmbralPerson": "A person close to you who is unhappy with you"
+  }
+]

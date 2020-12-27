@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Crowns",
+    "Faculty": "Leadership, Control",
+    "SocialClass": "Nobility",
+    "Element": "Lightning"
+  },
+  {
+    "Name": "Cups",
+    "Faculty": "Emotion",
+    "SocialClass": "Clergy",
+    "Element": "Water"
+  },
+  {
+    "Name": "Rings",
+    "Faculty": "Material Possessions",
+    "SocialClass": "Merchants",
+    "Element": "Earth"
+  },
+  {
+    "Name": "Knives",
+    "Faculty": "Thoughts",
+    "SocialClass": "Miltary",
+    "Element": "Wind"
+  },
+  {
+    "Name": "Staves",
+    "Faculty": "Willpower, action",
+    "SocialClass": "Smallfolk",
+    "Element": "Fire"
+  },
+  {
+    "Name": "Irons",
+    "Faculty": "Remorse, Repentance",
+    "SocialClass": "Prisoners",
+    "Element": "Ice"
+  }
+]

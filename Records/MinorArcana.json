@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "One",
+    "DivineMeaning": "New beginnings, taking initiative, independence, innovation",
+    "ReverseMeaning": "Taking unneeded risks, fear of failure, self-doubt"
+  },
+  {
+    "Name": "Two",
+    "DivineMeaning": "Intuition, cooperation, working with others, focus on relationships",
+    "ReverseMeaning": "Indecision, passivity, fragility"
+  },
+  {
+    "Name": "Three",
+    "DivineMeaning": "Communication, creative energy, vibrance",
+    "ReverseMeaning": "Naivete, lack of focus, shallowness"
+
+  },
+  {
+    "Name": "Four",
+    "DivineMeaning": "Practicality, not taking risks, firmness,confidence",
+    "ReverseMeaning": "Dogmatic, rigid, stubborn, dullness"
+  },
+  {
+    "Name": "Five",
+    "DivineMeaning": "Curiosity, exploration, experimentation, adaptation",
+    "ReverseMeaning": "lack of commitment, unreliability, lack of direction"
+  },
+  {
+    "Name": "Six",
+    "DivineMeaning": "Support, love, possible romance, devotion",
+    "ReverseMeaning": "self-sacrifice, idealism, high expectations"
+
+  },
+  {
+    "Name": "Knave",
+    "DivineMeaning": "ambition, cleverness, guile, carefree",
+    "ReverseMeaning": "self-delusion, manipulation, hidden schemes"
+  },
+  {
+    "Name": "Lord",
+    "DivineMeaning": "dominant, inspiring, regal, assertive",
+    "ReverseMeaning": "overbearing, intimidation, abuse of power, aggression"
+  },
+  {
+    "Name": "Lady",
+    "DivineMeaning": "grace, poise, intellect, accomodation",
+    "ReverseMeaning": "arrogance, jealousy, covetousness, subtlety"
+  }
+
+
+]
